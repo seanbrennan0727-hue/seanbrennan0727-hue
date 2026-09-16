@@ -2,7 +2,7 @@
 
 I am a Student Athlete at Baldwin Wallace
 
-* For Resume, click [here]()
+* For Resume, click [here](https://rawcdn.githack.com/seanbrennan0727-hue/seanbrennan0727-hue/066063f5dcd8e3f6218f9be89d4a9ed6d525c147/sean_brennan_resume.pdf)
 
 ### 🎓 About Me
 
