@@ -15,9 +15,9 @@ I am a Student Athlete at Baldwin Wallace
 
 ### 📌 Featured Projects
 
-| World Clock | Tells you the time anywhere in the world | [Python Flask] |
+| Project Name | Description | Tech Used |
 | --- | --- | --- |
-| **Time Clock WebApp** | WebApp built on PythonAnywhere using Gemini | https://seanbrennan.pythonanywhere.com/|
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using Gemini | `[Python]` `[Flask]` |
 
 
 ---
