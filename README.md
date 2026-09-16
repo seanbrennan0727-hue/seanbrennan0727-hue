@@ -2,7 +2,7 @@
 
 I am a Student Athlete at Baldwin Wallace
 
----
+* For Resume, click [here]()
 
 ### 🎓 About Me
 
