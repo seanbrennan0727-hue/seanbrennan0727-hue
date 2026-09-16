@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Sean 👋
 
-<!--
-**seanbrennan0727-hue/seanbrennan0727-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Student Athlete at Baldwin Wallace
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Bachelors of arts in Finance at Baldwin Wallace University (Expected Graduation: 2029)
+* 🔭 **Current Focus:** Learning about Financial systems, and accounting equations
+* 💡 **Interests:** Ai in the Financial and Accounting world 
+* ⚡ **Fun Fact:** I have Snowboarded in Colorado
+
+---
+
+### 📌 Featured Projects
+
+| World Clock | Tells you the time anywhere in the world | [Python Flask] |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using Gemini | https://seanbrennan.pythonanywhere.com/|
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** "https://www.linkedin.com/in/sean-brennan-6187a0422/"
+* **Email:** sbrennan25@bw.edu](mailto:sbrennan25@bw.edu)
